@@ -10,5 +10,5 @@ The code predicts if the news is real or fake using naive Bayees classifier.
 - It then asks for input of news, by title.
 - The type of news in predicted by Naive Bayees classifier using nltk library. 
 
-##Accuracy: 
+## Accuracy: 
 0.67
